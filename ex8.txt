@@ -1,0 +1,6 @@
+1) Declare variable x, type double with value of 2.5
+2) Declare variable y, type double with value -1.5.
+3) Declare variable m, type int with value 18;
+4) Declare variable n, type int with value 4;
+5) Declare s as string variable,assign value "Hello".
+6) Declare t as string variable,assign value "World". 

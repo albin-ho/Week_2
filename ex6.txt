@@ -1,0 +1,5 @@
+1) line 5 "int total;" is not assigned a number eg "int total = 100;"
+2) line  9 "total = total +x1;" will only = x1 as total was not assigned a value.
+    statement should read "total = x1 + x2;"
+3) int x2 should be declared at top of program after x1, eg "int x1, x2;"
+4) division of int x1 and x2 will give errors, float / double data type is required x1 and x2

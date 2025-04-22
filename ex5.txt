@@ -1,0 +1,5 @@
+1) iostream should be "#include <iostream>"
+2) line 2 int main is missing { bracket
+3) line 3 "(" for cout when not required, also missing ";" after endl.
+4) line 4 cin can only be for 1 variable, line should be "cin >> x;" 
+5) "Return;" is wrong should read "return = 0;", c++ is case sensitive. 
